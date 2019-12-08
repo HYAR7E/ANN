@@ -1,5 +1,5 @@
 ## This directory was created from an existing repository about boltzmann machine
-## The original repository is https://github.com/echen/restricted-boltzmann-machines
+The original repository is https://github.com/echen/restricted-boltzmann-machines
 # How to Use
 
 First, initialize an RBM with the desired number of visible and hidden units.
